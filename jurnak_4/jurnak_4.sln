@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jurnak_4", "jurnak_4\jurnak_4.csproj", "{BA8C5EFC-F511-4A74-AB4F-DA9883199605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8C5EFC-F511-4A74-AB4F-DA9883199605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8C5EFC-F511-4A74-AB4F-DA9883199605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8C5EFC-F511-4A74-AB4F-DA9883199605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8C5EFC-F511-4A74-AB4F-DA9883199605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE11BFEA-159E-49EB-A8AB-A3FC7029D33F}
+	EndGlobalSection
+EndGlobal

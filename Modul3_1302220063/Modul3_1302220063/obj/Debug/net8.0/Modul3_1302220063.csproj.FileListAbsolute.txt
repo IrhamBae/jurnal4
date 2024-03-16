@@ -1,0 +1,5 @@
+C:\Users\PRAKTIKAN\Music\Modul3_1302220063\Modul3_1302220063\obj\Debug\net8.0\Modul3_1302220063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Music\Modul3_1302220063\Modul3_1302220063\obj\Debug\net8.0\Modul3_1302220063.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Music\Modul3_1302220063\Modul3_1302220063\obj\Debug\net8.0\Modul3_1302220063.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Music\Modul3_1302220063\Modul3_1302220063\obj\Debug\net8.0\Modul3_1302220063.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Music\Modul3_1302220063\Modul3_1302220063\obj\Debug\net8.0\Modul3_1302220063.sourcelink.json
