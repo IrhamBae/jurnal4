@@ -37,6 +37,31 @@ public class KodeBuah
 
 }
 
+public class posisiKarakterGame
+{
+    public enum State { Berdiri, jongkok, tengkurap, terbang}
+    public enum Triger { w, s, x}
+    public class perubahanPosisi
+    {
+        public State sebelum;
+        public State setelah;
+
+        public Triger tombol;
+
+        public perubahanPosisi(State sebelum, State setelah, Triger tombol)
+        {
+            this.sebelum = sebelum;
+            this.setelah = setelah;
+            this.tombol = tombol;
+        }
+        perubahanPosisi[] list =
+        {
+           new perubahanPosisi(State.Berdiri, State.jongkok, Triger.s),
+           new perubahanPosisi(State.jongkok, State.Berdiri, Triger.w),
+        };
+    }
+}
+
 class Program
 {
     static void Main(string[] args)
